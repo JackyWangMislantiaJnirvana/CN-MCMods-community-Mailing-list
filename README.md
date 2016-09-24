@@ -1,7 +1,7 @@
 # Chinese Minecraft Mods community Mailing list
 模组社区邮件组
 
-//即时通讯是腐化浮华的。纯粹，才是社区的灵魂。
+/拒绝腐化与浮华。纯粹，才是社区的灵魂。/
 
 #加入方法#
 1. fork此Repository
